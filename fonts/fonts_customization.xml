@@ -880,6 +880,36 @@
     <alias name="goudy" to="ubuntu" />
     <alias name="fantasy" to="ubuntu" />
     <alias name="ITC Stone Serif" to="ubuntu" />
+    
+    <family customizationType="new-named-family" name="FangZhengKaiTiPinYin">
+        <font weight="400" style="normal">FangZhengKaiTiPinYin.ttc</font>
+    </family>
+    <alias name="FangZhengKaiTiPinYin-medium" to="FangZhengKaiTiPinYin" weight="500" />
+    <alias name="FangZhengKaiTiPinYin-semi-bold" to="FangZhengKaiTiPinYin" weight="600" />
+    <alias name="FangZhengKaiTiPinYin-bold" to="FangZhengKaiTiPinYin" weight="700" />
+    <alias name="times" to="FangZhengKaiTiPinYin" />
+    <alias name="times new roman" to="FangZhengKaiTiPinYin" />
+    <alias name="palatino" to="FangZhengKaiTiPinYin" />
+    <alias name="georgia" to="FangZhengKaiTiPinYin" />
+    <alias name="baskerville" to="FangZhengKaiTiPinYin" />
+    <alias name="goudy" to="FangZhengKaiTiPinYin" />
+    <alias name="fantasy" to="FangZhengKaiTiPinYin" />
+    <alias name="ITC Stone Serif" to="FangZhengKaiTiPinYin" />
+    
+    <family customizationType="new-named-family" name="SanJiJiHeiPinYinRegular">
+        <font weight="400" style="normal">SanJiJiHeiPinYinRegular.ttf</font>
+    </family>
+    <alias name="SanJiJiHeiPinYinRegular-medium" to="SanJiJiHeiPinYinRegular" weight="500" />
+    <alias name="SanJiJiHeiPinYinRegular-semi-bold" to="SanJiJiHeiPinYinRegular" weight="600" />
+    <alias name="SanJiJiHeiPinYinRegular-bold" to="SanJiJiHeiPinYinRegular" weight="700" />
+    <alias name="times" to="SanJiJiHeiPinYinRegular" />
+    <alias name="times new roman" to="SanJiJiHeiPinYinRegular" />
+    <alias name="palatino" to="SanJiJiHeiPinYinRegular" />
+    <alias name="georgia" to="SanJiJiHeiPinYinRegular" />
+    <alias name="baskerville" to="SanJiJiHeiPinYinRegular" />
+    <alias name="goudy" to="SanJiJiHeiPinYinRegular" />
+    <alias name="fantasy" to="SanJiJiHeiPinYinRegular" />
+    <alias name="ITC Stone Serif" to="SanJiJiHeiPinYinRegular" />
 
     <family customizationType="new-named-family" name="nokiapure">
         <font weight="400" style="normal">Nokia_Pure.ttf</font>

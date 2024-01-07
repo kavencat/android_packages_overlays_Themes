@@ -44,7 +44,9 @@ PRODUCT_PACKAGES += \
     ZillaSlab-MediumItalic.ttf \
     ZillaSlab-Medium.ttf \
     ZillaSlab-SemiBoldItalic.ttf \
-    ZillaSlab-SemiBold.ttf 
+    ZillaSlab-SemiBold.ttf \
+    FangZhengKaiTiPinYin.ttc \
+    SanJiJiHeiPinYinRegular.ttf
 
 # Copy fonts
 LOCAL_PATH := packages/overlays/Themes/fonts
@@ -108,7 +110,9 @@ PRODUCT_PACKAGES += \
     FontUbuntuSourceOverlay \
     FontVictorOverlay \
     FontGoogleSansClockOverlay \
-    FontGoogleSansOverlay
+    FontGoogleSansOverlay \
+    FontFangZhengKaiTiPinYinSourceOverlay \
+    FontSanJiJiHeiPinYinRegularSourceOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \
